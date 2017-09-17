@@ -1,6 +1,6 @@
 
 # Load activity labels & features
-setwd("/Users/beccazhang/Desktop/Course/DS_4/datasets/")
+setwd("~/datasets/")
 
 #load datasets
 train <- read.table("UCI HAR Dataset/train/X_train.txt")
