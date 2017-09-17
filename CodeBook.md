@@ -1,7 +1,8 @@
 Identifiers
 
-  subject - The ID of the test subject
-  activity - The type of activity performed when the corresponding measurements were taken
+  subject - test subject ID
+  
+  activity - the type of activity
   
 Variables (mean and std)
 
